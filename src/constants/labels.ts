@@ -3,7 +3,8 @@ export const LABELS = {
   BORROWING_POWER_USED: "Borrowing Power Used",
   BORROWING_POWER_VALUE: "Borrowing Power",
   BORROWED_VALUE: "You borrowed",
-  GIVE_SOL: "Give me SOL",
+  GIVE_SOL: "Give me CAPPUCINO STABLECOINS",
+  DEPOSIT_SOL: "Deposit SOL to vault",
   LIQUIDATION_INFO:
     "This view displays all loans that can be liquidated. A liquidation is a process where borrower collateral does not cover value of the loan. It is represented by health factor falling below 1.0. When a loan is liquidated, an liquidator can purchase collateral at a discount by repaing the portio of the loan. ",
   FAUCET_INFO:
